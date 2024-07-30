@@ -1,0 +1,233 @@
+.ourmenu h1 {
+  font-family: dancing script;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 50px;
+  margin-bottom: 30px;
+  background: linear-gradient(teal,purple);
+ }
+ #burger{
+  height: 550px;
+  background: linear-gradient(teal,purple );
+  position: relative;
+ }
+ #burger1{
+  position: absolute;
+  height: 400px;
+  width:20%;
+  top: 10%;
+  left: 4%;
+  border-radius: 10px;
+  color: #fff;
+  padding: 20px;
+  display: flex;
+  background-color:  #222831;
+}
+#burger11{
+    width: 100%;
+    height: 50%;
+    border-radius: 10px;
+    background-color: #fff;
+}
+#burger11 img 
+{
+  margin-left: 35px;
+  margin-top: 10px;
+  border-radius: 50%;
+}
+
+#burger11 p{
+  font-weight: 900;
+  padding-top: 20px;
+}
+#burger11 button{
+  margin-left: 120px;
+  padding: 8px 35px;
+  border-radius: 20px;
+  border: none;
+  margin-top: 30px;
+  background-color: goldenrod;
+} 
+#burger11 button:hover{
+  color: #ffffff;
+ background-color:rgb(100, 143, 37);
+}
+#burger11 h2{
+  font-weight: 700;
+}
+#burger22 p{
+  font-weight: 900;
+  padding-top: 20px;
+}
+#burger22 button{
+  margin-left: 120px;
+  padding: 8px 35px;
+  border-radius: 20px;
+  border: none;
+  margin-top: 30px;
+  background-color: goldenrod;
+} 
+#burger22 button:hover{
+  color: #ffffff;
+ background-color:rgb(100, 143, 37);
+}
+#burger22 h1{
+  margin-top: 30px;
+}
+#burger22 h2{
+  font-weight: 700;
+}
+#burger22{
+  width: 100%;
+  height: 50%;
+  border-radius: 10px;
+  background-color: #fff;
+}
+#burger22 img 
+{
+  margin-left: 35px;
+  margin-top: 27px;
+  border-radius: 50%;
+
+}
+#burger33{
+  width: 100%;
+  height: 50%;
+  border-radius: 10px;
+  background-color: #fff;
+}
+#burger33 img 
+{
+  margin-left: 55px;
+  margin-top: 10px;
+  border-radius: 50%;
+}
+
+
+#burger2{
+  position: absolute;
+  height: 400px;
+  width:20%;
+  top: 10%;
+  left: 39%;
+  border-radius: 10px;
+  color: #fff;
+  padding: 20px;
+  display: flex;
+  background-color:  #222831;
+}
+#burger3{
+  position: absolute;
+  height: 400px;
+  width:20%;
+  top: 10%;
+  left: 73%;
+  border-radius: 10px;
+  color: #fff;
+  padding: 20px;
+  display: flex;
+  background-color:  #222831;
+}
+#burger33 p{
+  font-weight: 900;
+  padding-top: 20px;
+}
+#burger33 button{
+  margin-left: 120px;
+  padding: 8px 35px;
+  border-radius: 20px;
+  border: none;
+  margin-top: 30px;
+  background-color: goldenrod;
+} 
+#burger33 button:hover{
+  color: #ffffff;
+ background-color:rgb(100, 143, 37);
+}
+#burger33 h2{
+  font-weight: 700;
+}
+#burger33 h1 {
+  margin-top:30px ;
+}
+
+
+
+#pizza{
+  height: 550px;
+  margin-top: 35%;
+  background: linear-gradient(teal,purple );
+  position: relative;
+}
+#burger4{
+  position: absolute;
+  height: 400px;
+  width:20%;
+  top: 10%;
+  left: 4%;
+  border-radius: 10px;
+  color: #fff;
+  padding: 20px;
+  display: flex;
+  background-color:  #222831;
+}
+#burger44{
+    width: 100%;
+    height: 50%;
+    border-radius: 10px;
+    background-color: #fff;
+}
+#burger44 img 
+{
+  margin-left: 20px;
+  margin-top: 30px;
+  border-radius: 50%;
+  height:150px;
+}
+#burger44 h1 {
+  margin-top:30px ;
+}
+
+#burger44 p{
+  font-weight: 900;
+  padding-top: 20px;
+}
+#burger44 button{
+  margin-left: 120px;
+  padding: 8px 35px;
+  border-radius: 20px;
+  border: none;
+  margin-top: 30px;
+  background-color: goldenrod;
+} 
+#burger44 button:hover{
+  color: #ffffff;
+ background-color:rgb(100, 143, 37);
+}
+#burger44 h2{
+  font-weight: 700;
+  
+}
+#roti{
+  height: 550px;
+  margin-top: 0%;
+  background: linear-gradient(teal,purple );
+  position: relative;
+}
+#viewmore{
+  margin-left: 48%;
+  padding: 10px 30px;
+  background-color: rgb(70, 120, 0);
+  border-radius: 20px;
+  border: none;
+  font-weight: 900;
+}
+
+#viewmore:hover{
+  color: #ffffff;
+  background-color:rgb(100, 143, 37);
+  
+}
+#view{
+  background-color: purple;
+}

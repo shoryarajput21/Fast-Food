@@ -1,0 +1,53 @@
+#first{
+  font-family: dancing script;
+  font-weight: 700;
+  height: 100px;
+  text-align: center;
+  background-color: teal;
+  
+  padding-top: 40px;
+}
+#container3{
+  height: 750px;
+  background: linear-gradient(teal,purple);
+  position: relative;
+  display: flex;
+}
+#box3 h1{
+  font-family: dancing script;
+  margin-top: 80px;
+  margin-left: 270px;
+  height: 80px;
+  font-weight: 900;
+}
+#box3 p{
+  margin-left: 120px;
+  
+}
+#box3 input{
+  width: 500px;
+  height: 35px;
+  margin: 5px 5px;
+  font-weight: 500;
+  color: black;
+}
+
+#box3 button{
+  margin-top: 20px;
+  margin-left: 300px;
+  padding: 15px 35px;
+  font-weight: 700;
+  border-radius: 20px;
+  border: none;
+  background-color:yellowgreen;
+
+}
+#box3 button:hover{
+  background-color:rgb(100, 143, 37);
+  color: #ffffff;
+}
+#box4 img{
+  margin-top: 90px;
+  margin-left: 100px;
+  border-radius: 20px;
+}
